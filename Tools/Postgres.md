@@ -5,6 +5,7 @@
 - 菜鸟教程：https://www.runoob.com/postgresql/postgresql-tutorial.html
 - Docker 安装与部署教程：https://zhuanlan.zhihu.com/p/434248483
 - 在Docker中运行PostgreSQL + pgAdmin 4：https://cloud.tencent.com/developer/article/1679495
+- Node Postgres 库：https://node-postgres.com/
 
 # 安装
 
@@ -43,3 +44,7 @@ docker run -d -p 5433:80 --name pgadmin4 -e PGADMIN_DEFAULT_EMAIL=test@123.com -
 ```
 
 打开浏览器访问 http://localhost:5433/
+
+- Host name: host.docker.internal 或 host ip
+- Username：postgres 默认的
+- Password：运行容器配置的密码
