@@ -7,8 +7,8 @@
   * [Reach](Tools/Reach.md)
   * [ChatGPT](Tools/ChatGPT.md)
 * 运维
-  * [Docker](Tools/Docker.md)
-  * [Postgres](Tools/Postgres.md)
+  * [Docker](DevOps/Docker.md)
+  * [Postgres](DevOps/Postgres.md)
 * 前端
   * [Nodejs](Frontend/Nodejs.md)
   * [React](Frontend/React.md)
