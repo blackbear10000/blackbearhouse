@@ -1,0 +1,2 @@
+- [ChatGPT资料汇总学习，持续更新......](https://github.com/dalinvip/Awesome-ChatGPT)
+- [ChatGPT 三合一懒人版集合微信/Telegram电报群/网页版](https://juejin.cn/post/7204735957778186300)
