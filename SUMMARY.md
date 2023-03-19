@@ -15,4 +15,4 @@
 * [电子书](Books/README.md)
 * 理论
   * [ZK](Theory/ZK.md)
-  * [项目管理](PM/README.md)
+  * [项目管理](Theory/README.md)
