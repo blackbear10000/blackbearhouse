@@ -6,7 +6,8 @@
 
 # 开发资源
 
-- 零知识证明系统：https://zkp.science/
+- 零知识证明系统
+  - [zkp.science](https://zkp.science/)
 - 上层构建工具
   - [ZokRates(ZoKrates is a toolbox for zkSNARKs on Ethereum.)](https://zokrates.github.io/)
   - [Zinc(From zkSync)](https://github.com/matter-labs/zinc)
