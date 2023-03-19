@@ -12,3 +12,7 @@
 - https://www.useweb3.xyz/
 - https://antcave.club/ （“技术学习”部分包含了很多社区发起的学习网站）
 - https://github.com/frankiefab100/Blockchain-Development-Resources
+
+
+一些书籍：
+- [精通比特币](https://www.8btc.com/books/261/master_bitcoin/_book/)
