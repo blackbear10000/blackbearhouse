@@ -1,0 +1,2 @@
+- [An overview of Scroll's architecture](https://scroll.mirror.xyz/nDAbJbSIJdQIWqp9kn8J0MVS4s6pYBwHmK7keidQs-k)
+- [Scroll Guide](https://guide.scroll.io/)
