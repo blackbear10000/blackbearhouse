@@ -17,3 +17,12 @@
 一些书籍：
 
 - [精通比特币](https://www.8btc.com/books/261/master_bitcoin/_book/)
+
+一些开发工具
+
+- [以太坊开发工具及资源大全](https://cloud.tencent.com/developer/article/1780899)
+
+不错的课程
+
+- [👩‍💻 Web2 to Web3 🚀](https://github.com/austintgriffith/web2-to-web3-curriculum)
+- [[MIT IAP 2023] Modern Zero Knowledge Cryptography](https://zkiap.com/#34e5b6cf6e1d4dd3901940d4be2edb0b)
