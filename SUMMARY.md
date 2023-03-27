@@ -10,11 +10,13 @@
   - [React](Frontend/React.md)
 - 后端
 - 区块链
-  - [Rainbowkit](Tools/Rainbowkit.md)
-  - [Wagmi](Tools/wagmi.md)
+  - [Rainbowkit](Blockchain/Rainbowkit.md)
+  - [Wagmi](Blockchain/wagmi.md)
+  - [Scaffold-eth](Blockchain/Scaffold-eth.md)
 - 通用工具
   - [Reach](Tools/Reach.md)
   - [ChatGPT](Tools/ChatGPT.md)
+  - [VSCode](Tools/VSCode.md)
 - 理论
   - [ZK](Theory/ZK.md)
   - [项目管理](Theory/PM.md)
