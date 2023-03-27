@@ -6,6 +6,8 @@
 
 - [Dapp Learning](https://github.com/Dapp-Learning-DAO/Dapp-Learning/blob/main/README-CN.md)
 - [WTF Academy](https://wtf.academy/)
+- [devpill.me](https://www.devpill.me/docs/get-started/introduction/)
+- [DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_cn.md)
 - https://xifengxx.notion.site/xifengxx/Xifenxx-GTD-1-b370f002e94948c4b59f543a1366c25b
 - https://three-recorder-52a.notion.site/1c01142d07dc4e3da4ebe7c3c420d4c7
 - https://learnblockchain.cn/courses
