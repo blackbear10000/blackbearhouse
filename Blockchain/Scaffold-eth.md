@@ -15,3 +15,16 @@ Here are the main components:
 ## Link
 
 - [Doc](https://docs.scaffoldeth.io/scaffold-eth/)
+
+## Bugs
+
+对于使用 scaffold-eth 默认的 thegraph 部署方式，postgresql 的数据库版本会存在问题，导致 thegraph 节点无法正常启动
+
+在 docker-compose.yml 里相应的位置，增加环境变量：
+
+```yml
+environment:
+  POSTGRES_INITDB_ARGS: "-E UTF8 --locale=C"
+```
+
+https://ethereum.stackexchange.com/questions/147213/scaffold-eths-graph-node-docker-container-dies-after-a-few-seconds-complaining

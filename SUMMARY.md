@@ -13,6 +13,9 @@
   - [Rainbowkit](Blockchain/Rainbowkit.md)
   - [Wagmi](Blockchain/wagmi.md)
   - [Scaffold-eth](Blockchain/Scaffold-eth.md)
+  - [IPFS](Blockchain/IPFS.md)
+  - [TheGraph](Blockchain/TheGraph.md)
+  - [CITA](Blockchain/CITA.md)
 - 通用工具
   - [Reach](Tools/Reach.md)
   - [ChatGPT](Tools/ChatGPT.md)
